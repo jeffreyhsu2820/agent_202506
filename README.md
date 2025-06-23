@@ -1,6 +1,6 @@
-# ADK Multi-Agent 系統測試指南
+# ADK Multi-Agent 測試
 
-本文件說明如何正確啟動和測試 ADK Multi-Agent 系統。
+測試 ADK Multi-Agent 
 
 ## 一、問題說明
 
